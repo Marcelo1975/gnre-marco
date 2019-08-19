@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+   <TLote_GNRE xmlns="http://www.gnre.pe.gov.br">
+        <guias>
+            <TDadosGNRE>
+                <c01_UfFavorecida>MG</c01_UfFavorecida> 
+                <c02_receita>102509</c02_receita> 
+                <c25_detalhamentoReceita>435986</c25_detalhamentoReceita>
+                <c26_produto>1</c26_produto>
+                <c27_tipoIdentificacaoEmitente>2</c27_tipoIdentificacaoEmitente> 
+                <c03_idContribuinteEmitente> 
+                <CPF>11122233344</CPF> 
+                </c03_idContribuinteEmitente>
+                <c28_tipoDocOrigem>12</c28_tipoDocOrigem> 
+                <c04_docOrigem>123</c04_docOrigem> 
+                <c06_valorPrincipal>1.00</c06_valorPrincipal> 
+                <c10_valorTotal>99.99</c10_valorTotal> 
+                <c14_dataVencimento>2019-08-15</c14_dataVencimento> 
+                <c15_convenio>Saúde</c15_convenio> 
+                <c16_razaoSocialEmitente>Tecnologias</c16_razaoSocialEmitente>
+                <c17_inscricaoEstadualEmitente>4678</c17_inscricaoEstadualEmitente>
+                <c18_enderecoEmitente>Rua Fulano de Tal</c18_enderecoEmitente> 
+                <c19_municipioEmitente>98325</c19_municipioEmitente> 
+                <c20_ufEnderecoEmitente>SP</c20_ufEnderecoEmitente> 
+                <c21_cepEmitente>34888990</c21_cepEmitente> 
+                <c22_telefoneEmitente>99999999</c22_telefoneEmitente> 
+                <c34_tipoIdentificacaoDestinatario>1</c34_tipoIdentificacaoDestinatario> 
+                <c35_idContribuinteDestinatario>
+                <CPF>11111111111</CPF>
+                </c35_idContribuinteDestinatario>
+                <c36_inscricaoEstadualDestinatario>5498</c36_inscricaoEstadualDestinatario> 
+                <c37_razaoSocialDestinatario>Deu sim</c37_razaoSocialDestinatario> 
+                <c38_municipioDestinatario>87214</c38_municipioDestinatario> 
+                <c33_dataPagamento>2019-08-30</c33_dataPagamento>
+                <c05_referencia>
+                <periodo>0</periodo>
+                <mes>08</mes> 
+                <ano>2019</ano> 
+                <parcela>12</parcela>
+                </c05_referencia>
+                <c39_camposExtras>
+                <campoExtra>
+                  <codigo>12345</codigo>
+                  <tipo>T</tipo>
+                  <valor>D</valor>
+                </campoExtra>
+                <campoExtra>
+                  <codigo>12345</codigo>
+                  <tipo>T</tipo>
+                  <valor>D</valor>
+                </campoExtra>
+                <campoExtra>
+                  <codigo>12345</codigo>
+                  <tipo>T</tipo>
+                  <valor>D</valor>
+                </campoExtra>
+                </c39_camposExtras>
+            <c42_identificadorGuia>789</c42_identificadorGuia>
+        </TDadosGNRE>
+    </guias> 
+</TLote_GNRE>
